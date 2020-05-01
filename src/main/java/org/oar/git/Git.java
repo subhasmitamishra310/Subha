@@ -1,10 +1,8 @@
 package org.oar.git;
 
-public class Git {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+class git{
+	public void m1()
+	{
+		System.out.println("hii");
 	}
-
 }
