@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="851e7f7b-2dcc-4178-abab-c43cfc20b5a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/GetCustomerRecordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/GetCustomerRecordsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1Ypphi7OfI8g0RByWKPkyuA9O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GetCustomerRecordsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Subha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.GetCustomerRecordsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GetCustomerRecordsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="851e7f7b-2dcc-4178-abab-c43cfc20b5a8" name="Default Changelist" comment="" />
+      <created>1585904752398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585904752398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="322" key="Github.ShareDialog" timestamp="1585906450723">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="585" y="322" key="Github.ShareDialog/0.23.1440.797@0.23.1440.797" timestamp="1585906450723" />
+    <state x="552" y="135" key="Github.UntrackedFilesDialog" timestamp="1585906461983">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="552" y="135" key="Github.UntrackedFilesDialog/0.23.1440.797@0.23.1440.797" timestamp="1585906461983" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1588320844116">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1588320844116" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1588320844115">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1588320844115" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1588320844115">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1588320844115" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1588320844115">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1588320844115" />
+    <state x="258" y="83" key="Maven.ArtifactSearchDialog" timestamp="1588320290645">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="258" y="83" key="Maven.ArtifactSearchDialog/0.23.1440.797@0.23.1440.797" timestamp="1588320290645" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1588318288207">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1588318288207" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1585987581146">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1585987581146" />
+  </component>
+</project>
