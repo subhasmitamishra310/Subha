@@ -18,6 +18,7 @@ public class HeapSort {
 			int temp=a[0];
 			a[0]=a[i];
 			a[i]=temp;
+			
 			heapfy(a,i,0);
 		}
 	}
